@@ -26,7 +26,6 @@ Para este projeto, utilizei as seguintes bibliotecas:
 - [url_launcher](https://pub.dev/packages/url_launcher)
 - [vocsy_epub_viewer](https://pub.dev/packages/vocsy_epub_viewer)
 - [path_provider](https://pub.dev/packages/path_provider)
-- [lottie](https://pub.dev/packages/lottie)
 - [mocktail](https://pub.dev/packages/mocktail)
 - [dio](https://pub.dev/packages/dio)
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
